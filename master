@@ -1,0 +1,2 @@
+if(heads > Tails) printf("%s won!",name);
+else printf("%s lost!",name);
